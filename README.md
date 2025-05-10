@@ -9,7 +9,7 @@ A collection of links and data for exploring and analyzing chess games from vari
 - 🗂️ [Chess.com Archive](https://www.chess.com/games/archive/raflyasligalek) — Player's game history archive.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b56d1050-9f75-401a-9a44-b53de3dbf051" alt="Chess Banner" width="70%">
+  <img src="https://github.com/user-attachments/assets/9dc68f2f-810c-419d-a736-3e87bcbd7777" alt="Chess Banner" width="90%">
 </p>
 
 > 🎯 This project helps organize and access chess game data efficiently.
